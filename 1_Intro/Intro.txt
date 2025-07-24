@@ -1,0 +1,41 @@
+SQL - Structured Query Language
+Common method of accessing and retrieving data in relational database
+
+MySQL is used to manage the database.
+
+IMPORTANT TERMS RELATED TO SQL
+1. Querying - retrieve data from table
+2. Output 
+3. Table - where data is stored in the form of rows and columns.
+4. Database
+
+ETL PROCESS - Extract, Transform and Load
+		The last step is where the data analyst lie.
+
+Data Cleaning Cycle
+1. Importing data
+2. Merging Datasets
+3. Rebuilding missing data
+4. Standardization 
+5. Normalizatiom
+6. De-Duplication
+7. Verification and enrichment
+8. Exporting data Again back to step 1
+
+* EDA - Exploratory Data Analysis
+* Data wrangling describes a series of processes designed to explore, transform, and validate    	raw datasets from their messy and complex forms into high-quality data.
+
+Important Topics - Window Functions, CTE(Common Table Expressions), Subqueries
+
+Top IDE's for SQL
+1. Visual Studio Code
+2. Data Grip
+3. DBeaver Community
+
+# The operations that can be performed on data are CRUD
+-- C = Create, R = Read, U = Update, D = Delete
+#For Data Analytics we delve into READ of the SQL part alone.
+
+#Querying ==> How data is retrieved from tables in a database
+# Syntax Order ==> SELECT, FROM, WHERE, GROUP BY,HAVING, ORDER BY, LIMIT
+# Order of execution ==> FROM, WHERE, GROUP BY, HAVING, SELECT, ORDER BY, LIMIT
